@@ -13,9 +13,9 @@
 ## Courses
 
  1. Basic Python
- 2. Linear regression
- 3. Classification
- 4. Clustering
+ 2. Pre-processing data
+ 3. Supervised learning
+ 4. Unsupervised learning
  
 
  
