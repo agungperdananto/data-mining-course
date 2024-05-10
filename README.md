@@ -18,7 +18,8 @@
  4. Unsupervised learning
  
 ## UTS
-Untuk soal UTS klik link di bawah ini
+Untuk soal UTS klik link di bawah ini:
+
 https://github.com/agungperdananto/data-mining-course/blob/main/UTS/Soal%20UTS.ipynb
 
  
